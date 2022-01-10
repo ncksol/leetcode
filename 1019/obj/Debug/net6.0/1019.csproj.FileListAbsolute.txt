@@ -1,0 +1,15 @@
+D:\_src_\leetcode\1019\bin\Debug\net6.0\1019.exe
+D:\_src_\leetcode\1019\bin\Debug\net6.0\1019.deps.json
+D:\_src_\leetcode\1019\bin\Debug\net6.0\1019.runtimeconfig.json
+D:\_src_\leetcode\1019\bin\Debug\net6.0\1019.dll
+D:\_src_\leetcode\1019\bin\Debug\net6.0\ref\1019.dll
+D:\_src_\leetcode\1019\bin\Debug\net6.0\1019.pdb
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.csproj.AssemblyReference.cache
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.AssemblyInfoInputs.cache
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.AssemblyInfo.cs
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.dll
+D:\_src_\leetcode\1019\obj\Debug\net6.0\ref\1019.dll
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.pdb
+D:\_src_\leetcode\1019\obj\Debug\net6.0\1019.genruntimeconfig.cache

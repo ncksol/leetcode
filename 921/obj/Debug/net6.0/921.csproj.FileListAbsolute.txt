@@ -1,0 +1,15 @@
+D:\_src_\leetcode\921\bin\Debug\net6.0\921.exe
+D:\_src_\leetcode\921\bin\Debug\net6.0\921.deps.json
+D:\_src_\leetcode\921\bin\Debug\net6.0\921.runtimeconfig.json
+D:\_src_\leetcode\921\bin\Debug\net6.0\921.dll
+D:\_src_\leetcode\921\bin\Debug\net6.0\ref\921.dll
+D:\_src_\leetcode\921\bin\Debug\net6.0\921.pdb
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.csproj.AssemblyReference.cache
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.AssemblyInfoInputs.cache
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.AssemblyInfo.cs
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.dll
+D:\_src_\leetcode\921\obj\Debug\net6.0\ref\921.dll
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.pdb
+D:\_src_\leetcode\921\obj\Debug\net6.0\921.genruntimeconfig.cache

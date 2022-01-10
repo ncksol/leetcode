@@ -1,0 +1,15 @@
+D:\_src_\leetcode\1432\bin\Debug\net6.0\1432.exe
+D:\_src_\leetcode\1432\bin\Debug\net6.0\1432.deps.json
+D:\_src_\leetcode\1432\bin\Debug\net6.0\1432.runtimeconfig.json
+D:\_src_\leetcode\1432\bin\Debug\net6.0\1432.dll
+D:\_src_\leetcode\1432\bin\Debug\net6.0\ref\1432.dll
+D:\_src_\leetcode\1432\bin\Debug\net6.0\1432.pdb
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.csproj.AssemblyReference.cache
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.AssemblyInfoInputs.cache
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.AssemblyInfo.cs
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.dll
+D:\_src_\leetcode\1432\obj\Debug\net6.0\ref\1432.dll
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.pdb
+D:\_src_\leetcode\1432\obj\Debug\net6.0\1432.genruntimeconfig.cache

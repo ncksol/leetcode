@@ -1,0 +1,15 @@
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.csproj.AssemblyReference.cache
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.AssemblyInfoInputs.cache
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.AssemblyInfo.cs
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\1249\bin\Debug\net6.0\1249.exe
+D:\_src_\leetcode\1249\bin\Debug\net6.0\1249.deps.json
+D:\_src_\leetcode\1249\bin\Debug\net6.0\1249.runtimeconfig.json
+D:\_src_\leetcode\1249\bin\Debug\net6.0\1249.dll
+D:\_src_\leetcode\1249\bin\Debug\net6.0\ref\1249.dll
+D:\_src_\leetcode\1249\bin\Debug\net6.0\1249.pdb
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.dll
+D:\_src_\leetcode\1249\obj\Debug\net6.0\ref\1249.dll
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.pdb
+D:\_src_\leetcode\1249\obj\Debug\net6.0\1249.genruntimeconfig.cache

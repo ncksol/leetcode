@@ -1,0 +1,15 @@
+D:\_src_\leetcode\560\bin\Debug\net6.0\560.exe
+D:\_src_\leetcode\560\bin\Debug\net6.0\560.deps.json
+D:\_src_\leetcode\560\bin\Debug\net6.0\560.runtimeconfig.json
+D:\_src_\leetcode\560\bin\Debug\net6.0\560.dll
+D:\_src_\leetcode\560\bin\Debug\net6.0\ref\560.dll
+D:\_src_\leetcode\560\bin\Debug\net6.0\560.pdb
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.csproj.AssemblyReference.cache
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.AssemblyInfoInputs.cache
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.AssemblyInfo.cs
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.dll
+D:\_src_\leetcode\560\obj\Debug\net6.0\ref\560.dll
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.pdb
+D:\_src_\leetcode\560\obj\Debug\net6.0\560.genruntimeconfig.cache

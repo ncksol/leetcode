@@ -1,0 +1,15 @@
+D:\_src_\leetcode\1389\bin\Debug\net6.0\1389.exe
+D:\_src_\leetcode\1389\bin\Debug\net6.0\1389.deps.json
+D:\_src_\leetcode\1389\bin\Debug\net6.0\1389.runtimeconfig.json
+D:\_src_\leetcode\1389\bin\Debug\net6.0\1389.dll
+D:\_src_\leetcode\1389\bin\Debug\net6.0\ref\1389.dll
+D:\_src_\leetcode\1389\bin\Debug\net6.0\1389.pdb
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.csproj.AssemblyReference.cache
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.AssemblyInfoInputs.cache
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.AssemblyInfo.cs
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.dll
+D:\_src_\leetcode\1389\obj\Debug\net6.0\ref\1389.dll
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.pdb
+D:\_src_\leetcode\1389\obj\Debug\net6.0\1389.genruntimeconfig.cache

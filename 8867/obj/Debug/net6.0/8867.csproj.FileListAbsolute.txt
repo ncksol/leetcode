@@ -1,0 +1,15 @@
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.csproj.AssemblyReference.cache
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.AssemblyInfoInputs.cache
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.AssemblyInfo.cs
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\8867\bin\Debug\net6.0\8867.exe
+D:\_src_\leetcode\8867\bin\Debug\net6.0\8867.deps.json
+D:\_src_\leetcode\8867\bin\Debug\net6.0\8867.runtimeconfig.json
+D:\_src_\leetcode\8867\bin\Debug\net6.0\8867.dll
+D:\_src_\leetcode\8867\bin\Debug\net6.0\ref\8867.dll
+D:\_src_\leetcode\8867\bin\Debug\net6.0\8867.pdb
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.dll
+D:\_src_\leetcode\8867\obj\Debug\net6.0\ref\8867.dll
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.pdb
+D:\_src_\leetcode\8867\obj\Debug\net6.0\8867.genruntimeconfig.cache

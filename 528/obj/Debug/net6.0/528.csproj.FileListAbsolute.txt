@@ -1,0 +1,15 @@
+D:\_src_\leetcode\528\bin\Debug\net6.0\528.exe
+D:\_src_\leetcode\528\bin\Debug\net6.0\528.deps.json
+D:\_src_\leetcode\528\bin\Debug\net6.0\528.runtimeconfig.json
+D:\_src_\leetcode\528\bin\Debug\net6.0\528.dll
+D:\_src_\leetcode\528\bin\Debug\net6.0\ref\528.dll
+D:\_src_\leetcode\528\bin\Debug\net6.0\528.pdb
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.csproj.AssemblyReference.cache
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.GeneratedMSBuildEditorConfig.editorconfig
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.AssemblyInfoInputs.cache
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.AssemblyInfo.cs
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.csproj.CoreCompileInputs.cache
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.dll
+D:\_src_\leetcode\528\obj\Debug\net6.0\ref\528.dll
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.pdb
+D:\_src_\leetcode\528\obj\Debug\net6.0\528.genruntimeconfig.cache
